@@ -120,6 +120,15 @@
     <ClInclude Include="Source\Character.h">
       <Filter>Source</Filter>
     </ClInclude>
+    <ClInclude Include="Source\CameraControl.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Attribute.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\AttributeSystem.h">
+      <Filter>Source</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="External\imgui\imgui.cpp">
@@ -195,6 +204,12 @@
       <Filter>Source</Filter>
     </ClCompile>
     <ClCompile Include="Source\Character.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\CameraControl.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\AttributeSystem.cpp">
       <Filter>Source</Filter>
     </ClCompile>
   </ItemGroup>

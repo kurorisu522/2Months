@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2240705\\Desktop\\2 Months Project\\2Months\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\2240162\\Documents\\GitHub\\2Months\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D22095F2-0FC3-424B-97D6-074B973AB293}|Game.vcxproj|C:\\Users\\2240162\\Documents\\GitHub\\2Months\\Source\\Framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D22095F2-0FC3-424B-97D6-074B973AB293}|Game.vcxproj|solutionrelative:Source\\Framework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Framework.cpp",
+              "DocumentMoniker": "C:\\Users\\2240162\\Documents\\GitHub\\2Months\\Source\\Framework.cpp",
+              "RelativeDocumentMoniker": "Source\\Framework.cpp",
+              "ToolTip": "C:\\Users\\2240162\\Documents\\GitHub\\2Months\\Source\\Framework.cpp",
+              "RelativeToolTip": "Source\\Framework.cpp",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAFkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T06:20:56.611Z",
+              "EditorCaption": ""
             }
           ]
         }
